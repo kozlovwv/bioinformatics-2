@@ -1,0 +1,51 @@
+rsID	variant_GRCh38	in_ClinVar	VCV	title	germline_classification	review_status	conditions	n_submissions
+rs116645811	21-25587758-G-A	no						
+rs7278284	21-25603925-C-T	no						
+rs75377686	21-25606478-T-C	no						
+rs3989369	21-25606638-A-G	no						
+rs115683257	21-32650278-C-A	yes	VCV000544577	NM_203446.3(SYNJ1):c.2943G>T (p.Met981Ile)	Benign/Likely benign	criteria provided, multiple submitters, no conflicts	not provided; not specified; Developmental and epileptic encephalopathy, 53; Early-onset Parkinson disease 20	4
+rs114053718	21-32656885-A-G	yes	VCV000544554	NM_203446.3(SYNJ1):c.2597T>C (p.Ile866Thr)	Uncertain significance	criteria provided, multiple submitters, no conflicts	Inborn genetic diseases; Developmental and epileptic encephalopathy, 53; Early-onset Parkinson disease 20; not provided	3
+rs114942253	21-32685836-C-T	yes	VCV000478324	NM_203446.3(SYNJ1):c.1030G>A (p.Ala344Thr)	Likely benign	criteria provided, multiple submitters, no conflicts	not specified; not provided; Developmental and epileptic encephalopathy, 53; Early-onset Parkinson disease 20; Inborn genetic diseases	7
+rs73901831	21-37065660-T-G	yes	VCV000709520	NM_153682.3(PIGP):c.327A>C (p.Pro109=)	Benign	criteria provided, single submitter	not provided	1
+rs457705	21-38819507-T-G	no						
+rs113417859	21-38819624-C-T	no						
+rs116476013	21-38821689-C-T	yes	VCV000783879	NM_005239.6(ETS2):c.1179C>T (p.Leu393=)	Benign	criteria provided, multiple submitters, no conflicts	not provided	2
+rs75532875	21-43969159-C-T	no						
+rs5993890	22-19971306-G-A	yes	VCV001242019	NM_001670.3(ARVCF):c.2811C>T (p.Pro937=)	Benign	criteria provided, multiple submitters, no conflicts	not provided	2
+rs115736959	22-19973143-G-A	yes	VCV000789863	NM_001670.3(ARVCF):c.2414C>T (p.Ala805Val)	Benign	criteria provided, single submitter	not provided	1
+rs76496156	22-19979039-C-T	yes	VCV000712281	NM_001670.3(ARVCF):c.1438G>A (p.Val480Ile)	Benign	criteria provided, multiple submitters, no conflicts	not provided	2
+rs114131171	22-19979765-G-A	no						
+rs114932611	22-19979849-G-A	no						
+rs74544696	22-19979957-C-G	yes	VCV001180930	NM_001670.3(ARVCF):c.1182G>C (p.Arg394=)	Benign	criteria provided, multiple submitters, no conflicts	not provided	2
+rs61739341	22-21643930-G-A	no						
+rs73166641	22-21643991-G-A	no						
+rs114880937	22-21974379-G-A	no						
+rs61747143	22-23146672-C-T	no						
+rs115006916	22-23160895-A-T	no						
+rs5759612	22-23160983-A-G	no						
+rs115180746	22-24184189-C-G	no						
+rs115684319	22-24186268-C-T	yes	VCV000769156	NM_019601.4(SUSD2):c.1495C>T (p.Arg499Cys)	Benign	criteria provided, multiple submitters, no conflicts	not provided	2
+rs114880151	22-30264324-G-C	no						
+rs114917409	22-30461658-C-G	no						
+rs115111929	22-30462162-A-C	no						
+rs2269961	22-30464843-C-T	no						
+rs115083767	22-30470253-G-A	no						
+rs116808844	22-30556036-G-A	no						
+rs2267161	22-30557308-C-T	yes	VCV001230435	NM_001318104.2(GAL3ST1):c.85G>A (p.Val29Met)	Benign	criteria provided, multiple submitters, no conflicts	not provided	2
+rs115143483	22-31091828-G-A	yes	VCV004587161	NM_134269.3(SMTN):c.1613G>A (p.Arg538Gln)	Uncertain significance	criteria provided, single submitter	not specified	1
+rs3205187	22-31095309-G-C	no						
+rs5997872	22-31095346-C-T	no						
+rs73399520	22-33277184-C-T	yes	VCV000095170	NM_133642.5(LARGE1):c.1949G>A (p.Arg650Gln)	Benign/Likely benign	criteria provided, multiple submitters, no conflicts	not specified; not provided; Muscular dystrophy-dystroglycanopathy type B6; Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A6	10
+rs115686643	22-33316147-G-A	yes	VCV000902052	NM_133642.5(LARGE1):c.1389C>T (p.Tyr463=)	Conflicting classifications of pathogenicity	criteria provided, conflicting classifications	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A6; Muscular dystrophy-dystroglycanopathy type B6	3
+rs8142483	22-33604498-C-T	yes	VCV000158808	NM_133642.5(LARGE1):c.552G>A (p.Thr184=)	Benign	criteria provided, multiple submitters, no conflicts	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A6; not provided; Muscular dystrophy-dystroglycanopathy type B6; not specified	8
+rs115801300	22-33650633-G-T	no						
+rs114689408	22-39374483-C-T	no						
+rs35429467	22-39374495-G-A	no						
+rs114948690	22-39743860-A-G	yes	VCV004249268	NM_152512.4(ENTHD1):c.1643T>C (p.Ile548Thr)	Uncertain significance	criteria provided, single submitter	not specified	1
+rs112945971	22-39744158-G-A	no						
+rs114600441	22-39744186-T-C	no						
+rs116765273	22-39835855-A-G	no						
+rs114714334	22-39861847-C-T	no						
+rs6519902	22-44916364-G-A	no						
+rs114043304	22-44920488-A-G	no						
+rs5771206	22-50178377-A-G	no						
